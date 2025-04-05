@@ -5,7 +5,7 @@ import NatureVid2 from './../assets/bgVideo4.mp4';
 import NatureVid3 from './../assets/bgVideo5.mp4';
 import { Link } from 'react-router-dom';
 import Logo from './../assets/Logo2.webp';
-import { FaX } from 'react-icons/fa6';
+import { FaXTwitter } from 'react-icons/fa6';
 
 
 const FooterLinks = [
@@ -66,7 +66,7 @@ const Footer = () => {
             <div className='flex justify-center'>
                 <div className='flex items-center gap-3 mt-6'>
                   <a href="https://x.com/thevinduDev" target='_blank'>
-                    <FaX className='text-2xl hover:text-emerald-500'/>
+                    <FaXTwitter className='text-2xl hover:text-emerald-500'/>
                   </a>
                   <a href="https://github.com/ThevinduD" target='_blank'>
                     <FaGithub className='text-2xl hover:text-emerald-500'/>
