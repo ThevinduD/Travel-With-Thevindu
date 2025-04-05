@@ -1,10 +1,11 @@
 import React from 'react'
-import { FaEnvelope, FaGithub, FaInstagram, FaLinkedin, FaLocationArrow,  } from 'react-icons/fa';
+import { FaEnvelope, FaGithub, FaLinkedin, FaLocationArrow,  } from 'react-icons/fa';
 import NatureVid1 from './../assets/bgVideo3.mp4';
 import NatureVid2 from './../assets/bgVideo4.mp4';
 import NatureVid3 from './../assets/bgVideo5.mp4';
 import { Link } from 'react-router-dom';
 import Logo from './../assets/Logo2.webp';
+import { FaX } from 'react-icons/fa6';
 
 
 const FooterLinks = [
@@ -59,15 +60,15 @@ const Footer = () => {
             </div>
             <div className='flex items-center justify-center gap-3 mt-3'>
               <FaEnvelope/>
-              <p>thevindund@gmail.com</p>
+              <p>thevindud.work@gmail.com</p>
             </div>
             {/* social handles */}
             <div className='flex justify-center'>
                 <div className='flex items-center gap-3 mt-6'>
-                  <a href="https://www.linkedin.com/in/thevindu-dehigaspitiya" target='_blank'>
-                    <FaInstagram className='text-2xl hover:text-emerald-500'/>
+                  <a href="https://x.com/thevinduDev" target='_blank'>
+                    <FaX className='text-2xl hover:text-emerald-500'/>
                   </a>
-                  <a href="https://www.linkedin.com/in/thevindu-dehigaspitiya" target='_blank'>
+                  <a href="https://github.com/ThevinduD" target='_blank'>
                     <FaGithub className='text-2xl hover:text-emerald-500'/>
                   </a>
                   <a href="https://www.linkedin.com/in/thevindu-dehigaspitiya" target='_blank'>
