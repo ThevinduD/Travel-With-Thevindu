@@ -2,11 +2,12 @@ import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Layout from './pages/Layout'
 import Home from './pages/Home'
-import About from './pages/About'
-import Blogs from './pages/Blogs'
-import BlogsDetails from './pages/BlogsDetails'
-import PlacesRoute from './pages/PlacesRoute'
-import NoPage from './pages/NoPage'
+
+const About = React.lazy(() => import('./pages/About'))
+const Blogs = React.lazy(() => import('./pages/Blogs'))
+const BlogsDetails = React.lazy(() => import('./pages/BlogsDetails'))
+const PlacesRoute = React.lazy(() => import('./pages/PlacesRoute'))
+const NoPage = React.lazy(() => import('./pages/NoPage'))
 
 
 const App = () => {
