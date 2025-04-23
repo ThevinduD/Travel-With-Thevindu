@@ -1,6 +1,6 @@
 # How to setup and run //
 
-Download the zip and extract, //Or clone it using 'git clone https://github.com/your-username/your-repo-name.git'.
+Download the zip and extract, // Or clone using url
 
 Open the terminal inside.
 
