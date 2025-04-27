@@ -21,5 +21,3 @@ git clone https://github.com/ThevinduD/Travel-With-Thevindu.git
 cd Travel-With-Thevindu
 npm install
 npm start
-
-
