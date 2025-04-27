@@ -8,15 +8,15 @@ import ResponsiveMenu from './ResponsiveMenu'
 const dropdownLinks = [
   {
     name:"Our Services",
-    link: "/#services"
+    link: "/"
   },
   {
     name:"Top Brands",
-    link: "/#mobile_brands"
+    link: "/"
   },
   {
     name:"Location",
-    link: "/#location"
+    link: "/"
   }
 ]
 

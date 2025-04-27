@@ -5,7 +5,7 @@ import ReactMarkdown from "react-markdown";
 const BlogsCard = (props) => {
   return (
     <Link to={`/blogs/${props.title}`} onClick={() => {window.scrollTo(0,0)}} state={{props}}>
-        <div className='p-4 shadow-lg transition-all duration-500 hover:shadow-xl dark:bg-slate-900 dark:text-white bg-white'>
+        <div className='p-4 shadow-lg transition-all duration-500 hover:shadow-xl bg-white'>
             <div className='overflow-hidden'>
                 <img loading='lazy' src={props.image} alt="" className='mx-auto h-[250px] w-full object-cover transition-all duration-700 hover:scale-110'/>
             </div>
