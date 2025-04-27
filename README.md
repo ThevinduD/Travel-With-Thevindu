@@ -17,8 +17,8 @@ This booking web application is designed to travelers who loves a vacation, prov
 ## Installation
 ### Clone the Repository
 ```
-https://github.com/ThevinduD/Travel-With-Thevindu.git
-cd Travel-With-Thevindu
+git ```clone``` https://github.com/ThevinduD/Travel-With-Thevindu.git
+```cd``` Travel-With-Thevindu
 npm install
 npm start
 ```
