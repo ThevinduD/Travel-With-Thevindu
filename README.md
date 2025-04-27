@@ -1,15 +1,10 @@
-![Travel_With_Thevindu (1)](https://github.com/user-attachments/assets/c380f274-d96b-42e8-8940-4b722429ba6e)
-
 # Travel Agency Website
----
+
 ## Overview
 
-Download the zip and extract, // Or clone using url
+This booking web application is designed to travelers who loves a vacation, providing a seamless and enjoyable traveling experience with a range of features that support user interations. Users can explore vast locations, read blogs and book vacations.
 
-Open the terminal inside.
-
-Install the dependencies using 'npm install' or 'yarn install'
-
-Run the project using 'npm run dev' or 'yarn dev'
-
-Enjoy!!
+## Features
+-User-Friendly Navigation: Simple and intuitive navigation structure for ease of use.
+-Responsive Design: Fully responsive to ensure a consistent experience across all device types.
+-Smooth experience: scroll-on-animations with smooth navigations
