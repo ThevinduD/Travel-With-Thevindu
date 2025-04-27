@@ -1,11 +1,23 @@
-# How to setup and run //
+# Travel Agency Website
 
-Download the zip and extract, // Or clone using url
+## Overview
 
-Open the terminal inside.
+This booking web application is designed to travelers who loves a vacation, providing a seamless and enjoyable traveling experience with a range of features that support user interations. Users can explore vast locations, read blogs and book vacations.
 
-Install the dependencies using 'npm install' or 'yarn install'
+## Features
+- User-Friendly Navigation: Simple and intuitive navigation structure for ease of use.
+- Responsive Design: Fully responsive to ensure a consistent experience across all device types.
+- Smooth experience: scroll-on-animations with smooth navigations
 
-Run the project using 'npm run dev' or 'yarn dev'
+## Technologies
+- Frontend: HTML, CSS and Tailwind CSS for creating responsive and visually appealing user interfaces.
+- React Library for building dynamic, interactive user interfaces and handling state management efficiently.
+- React Router for navigate between pages smoothly
 
-Enjoy!!
+## Installation
+### Clone the Repository
+```bash
+git clone https://github.com/ThevinduD/Travel-With-Thevindu.git
+cd Travel-With-Thevindu
+npm install
+npm start
