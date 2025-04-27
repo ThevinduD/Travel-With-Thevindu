@@ -6,5 +6,7 @@ This booking web application is designed to travelers who loves a vacation, prov
 
 ## Features
 -User-Friendly Navigation: Simple and intuitive navigation structure for ease of use.
+
 -Responsive Design: Fully responsive to ensure a consistent experience across all device types.
+
 -Smooth experience: scroll-on-animations with smooth navigations
